@@ -74,6 +74,10 @@ body {
   font-size: 15px;
   color: gray;
 }
+.hero i {
+  font-size: 28px;
+  margin: 38px;
+}
 
 .experience {
   margin-top: 20px;
@@ -90,6 +94,7 @@ body {
   justify-content: space-between;
   gap: 50px;
 }
+
 .job {
   text-align: left;
   padding: 20px;
